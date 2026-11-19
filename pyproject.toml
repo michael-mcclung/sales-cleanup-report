@@ -1,0 +1,13 @@
+[project]
+name = "sales-cleanup-report"
+version = "0.1.0"
+description = "Clean a messy sales CSV export and build an Excel summary report."
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

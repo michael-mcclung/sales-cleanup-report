@@ -1,0 +1,8 @@
+date,customer,item,quantity,amount
+2026-09-02,Acme HVAC LLC,AC Tune-up,1,129.0
+2026-09-05,Acme HVAC LLC,Duct Cleaning,1,1250.0
+2026-09-12,Bluebonnet Dental,AC Tune-up,2,258.0
+2026-09-18,Bluebonnet Dental,Refund,1,-129.0
+2026-10-01,Lone Star Bakery,Filter Change,3,135.0
+2026-10-15,Trinity Auto,Thermostat Install,1,310.5
+2026-11-03,Acme HVAC LLC,AC Tune-up,1,129.0

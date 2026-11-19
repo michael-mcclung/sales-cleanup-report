@@ -1,0 +1,13 @@
+Invoice Date, Client ,Service,QTY,Total
+2026-09-02,acme hvac llc,ac tune-up,1,$129.00
+09/05/2026,  Acme   HVAC LLC ,Duct Cleaning,1,"$1,250.00"
+09/05/2026,  Acme   HVAC LLC ,Duct Cleaning,1,"$1,250.00"
+,,,,
+Sep 12 2026,bluebonnet dental,ac tune-up,2,258
+2026-09-18,Bluebonnet Dental,Refund,1,(129.00)
+13/40/2026,Lone Star Bakery,Filter Change,1,$45.00
+2026-10-01,lone star bakery,filter change,3,$135.00
+10/07/2026,,AC Tune-Up,1,$129.00
+October 15 2026,Trinity Auto,Thermostat Install,1,$310.50
+2026-10-20,Trinity Auto,Filter Change,two,$45.00
+2026-11-03,Acme HVAC LLC,Ac Tune-up,1,129
